@@ -20,6 +20,7 @@ h2{
 }
 h3{
   color: #3b6978;
+
 }
 a{
     color: #3b6978;
@@ -68,7 +69,12 @@ a:hover {
   color: white;
   font-size: .75rem;
 }
-
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: center;
+  line-height: 2;
+}
 
 
 
