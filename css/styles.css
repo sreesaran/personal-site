@@ -1,0 +1,130 @@
+body{
+  margin: 0;
+ text-align: center;
+ font-family: 'Gotu', sans-serif;
+ color:#005082;
+
+
+}
+h1{
+  margin: 120px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.52rem;
+  color: #000839;
+}
+h2{
+  color: #005082;
+  font-weight: normal;
+  font-size: 2.5rem;
+
+}
+h3{
+  color: #3b6978;
+}
+a{
+    color: #3b6978;
+}
+
+hr{
+  border: dotted #3b6978 8px ;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a{
+ margin: 10px 20px ;
+ text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.my-caption{
+  font-size: 2.5rem;
+}
+.top-container{
+  background-color: #f9a828;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 60px;
+}
+.middle-container{
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+.bottom-container{
+  background-color: #f9a828;
+  padding: 50px 0 20PX;
+}
+.copyrights{
+  color: white;
+  font-size: .75rem;
+}
+
+
+
+
+
+
+/* images section */
+.animoji{
+  padding-top: 40px;
+}
+
+.cloud-bottom{
+  position: re;
+  left: 25%;
+  bottom: 30%;
+}
+.cloud-top{
+  position: absolute;
+  right: 300px;
+  top :40px;
+
+}
+.webdevelopment-image{
+  width:25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+
+.programming-image{
+  width:25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+/* NOTE: button section  */
+.btn {
+  margin:30px auto;
+	background-color:#005082;
+	border-radius:30px;
+	border:1px solid #005082;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+ font-family: 'Gotu', sans-serif;
+	font-size:17px;
+	padding:13px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
